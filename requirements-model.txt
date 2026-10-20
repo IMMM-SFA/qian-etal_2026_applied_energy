@@ -1,0 +1,5 @@
+-r requirements.txt
+pyomo
+gurobipy
+xlrd
+# Model optimization additionally requires a working Gurobi license.
